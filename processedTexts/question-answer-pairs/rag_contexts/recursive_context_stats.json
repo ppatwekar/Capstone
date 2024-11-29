@@ -1,0 +1,24 @@
+{
+    "/content/output_Donald_Recursive_Chunk.json": {
+        "avg_context_len": 2897.9,
+        "context_count": 10,
+        "max_context_len": 3494,
+        "min_context_len": 2371
+    },
+    "/content/output_FBI_Recursive_Chunk.json": {
+        "avg_context_len": 2822.3636363636365,
+        "context_count": 11,
+        "max_context_len": 3508,
+        "min_context_len": 2546
+    },
+    "/content/output_USA_Recursive_Chunk.json": {
+        "avg_context_len": 3258.4,
+        "context_count": 10,
+        "max_context_len": 3701,
+        "min_context_len": 2470
+    },
+    "recursive_cumulative_avg_context_len": 2987.3870967741937,
+    "recursive_cumulative_total_contexts_counted": 31,
+    "recursive_max_context_len": 3701,
+    "recursive_min_context_len": 2371
+}

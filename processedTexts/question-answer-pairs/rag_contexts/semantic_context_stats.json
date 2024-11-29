@@ -1,0 +1,24 @@
+{
+    "/content/output_Donald_Semantic_Chunk.json": {
+        "avg_context_len": 23294.6,
+        "context_count": 10,
+        "max_context_len": 32590,
+        "min_context_len": 17156
+    },
+    "/content/output_FBI_Semantic_Chunk.json": {
+        "avg_context_len": 28803.0,
+        "context_count": 11,
+        "max_context_len": 43396,
+        "min_context_len": 19110
+    },
+    "/content/output_USA_Semantic_Chunk.json": {
+        "avg_context_len": 26206.4,
+        "context_count": 10,
+        "max_context_len": 38882,
+        "min_context_len": 16580
+    },
+    "semantic_cumulative_avg_context_len": 26188.483870967742,
+    "semantic_cumulative_total_contexts_counted": 31,
+    "semantic_max_context_len": 43396,
+    "semantic_min_context_len": 16580
+}

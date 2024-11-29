@@ -1,0 +1,42 @@
+[
+  {
+    question: "What is the main argument presented by Mr. Mitchell regarding Section 3 of the Fourteenth Amendment?",
+    answer: "Mr. Mitchell argues that President Trump is not covered by Section 3 of the Fourteenth Amendment because the term 'officer of the United States' applies only to appointed officials, not elected officials such as the President."
+  },
+  {
+    question: "How does Mr. Mitchell interpret the term 'officer of the United States' in the Constitution?",
+    answer: "Mr. Mitchell interprets 'officer of the United States' to refer exclusively to appointed officials, as seen in the Commissions Clause, the Impeachment Clause, and the Appointments Clause, and not to elected positions like the President."
+  },
+  {
+    qustion: "Why does Mr. Mitchell believe the Colorado Supreme Court's decision should be reversed?",
+    answer: "He believes the decision should be reversed because it misinterprets Section 3, which, according to him, does not apply to the President as an elected official and also oversteps by attempting to impose qualifications on federal office candidates."
+  },
+  {
+    question: "What example does Mr. Mitchell give to argue that states cannot impose additional qualifications for federal office?",
+    answer: "He compares it to state residency laws, noting that courts have previously held that a state cannot impose an earlier residency requirement for congressional candidates than what the Constitution mandates."
+  },
+  {
+    question: "How does Justice Thomas question Mr. Mitchell regarding Section 3’s implementation?",
+    answer: "Justice Thomas asks if Section 3 is self-executing and whether states or only Congress have the authority to implement its disqualifications."
+  },
+  {
+    question: "What is Mr. Mitchell’s stance on the self-execution of Section 3?",
+    answer: "Mr. Mitchell asserts that Section 3 is not self-executing and states cannot enforce it without Congress enacting specific legislation."
+  },
+  {
+    question: "What example does Mr. Mitchell give from history to support his argument?",
+    answer: "He references Confederate insurrectionists who were elected to Congress post-Civil War; Congress would decide case-by-case if they should be seated, illustrating that states could not disqualify them."
+  },
+  {
+    question: "What does Justice Sotomayor challenge in Mr. Mitchell’s argument about self-execution?",
+    answer: "Justice Sotomayor challenges his view, noting that states frequently enforce self-executing constitutional provisions and questioning his reliance on Griffin's Case, a non-precedential ruling."
+  },
+  {
+    question: "What distinction does Mr. Mitchell make between Griffin's Case and other Fourteenth Amendment provisions?",
+    answer: "He argues that Griffin’s Case is unique and was historically used as a basis for Congress’s legislative actions, such as the Enforcement Act of 1870, to exclusively grant enforcement powers to Congress."
+  },
+  {
+    question: "What does Justice Kagan clarify about Mr. Mitchell’s argument on statutory versus constitutional grounds?",
+    answer: "Justice Kagan points out that Mr. Mitchell’s argument appears to be based on statutory preemption rather than a constitutional rule, as he relies on Congress’s legislative actions following Griffin's Case, rather than a direct constitutional mandate."
+  }
+]

@@ -1,0 +1,24 @@
+{
+    "/content/output_Donald_Token_Chunk.json": {
+        "avg_context_len": 3334.0,
+        "context_count": 10,
+        "max_context_len": 3756,
+        "min_context_len": 3133
+    },
+    "/content/output_FBI_TokenChunk.json": {
+        "avg_context_len": 3333.4545454545455,
+        "context_count": 11,
+        "max_context_len": 3547,
+        "min_context_len": 2982
+    },
+    "/content/output_USA_Token_Chunk.json": {
+        "avg_context_len": 3592.6,
+        "context_count": 10,
+        "max_context_len": 4101,
+        "min_context_len": 3082
+    },
+    "token_cumulative_avg_context_len": 3417.2258064516127,
+    "token_cumulative_total_contexts_counted": 31,
+    "token_max_context_len": 4101,
+    "token_min_context_len": 2982
+}

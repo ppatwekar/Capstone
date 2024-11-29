@@ -1,0 +1,46 @@
+[
+  {
+    question: "What is the main legal issue in Case 22-1178 between the FBI and Yonas Fikre?",
+    answer: "The main issue is whether Fikre's claims regarding his placement on the No Fly List are moot, as he has not been on the list for eight years and, according to the government, is unlikely to be put back on it."
+  },
+  {
+    question: "What argument does Sopan Joshi present to support the claim of mootness?",
+    answer: "Joshi argues that because Fikre is no longer on the No Fly List and the government has no intention of putting him back on it, the case is moot since there is no reasonable expectation of recurrence of his placement on the list."
+  },
+  {
+    question: "How does Joshi respond to the Ninth Circuit's view on mootness?",
+    answer: "Joshi contends that the Ninth Circuit confused mootness with the merits of the case by suggesting that the government must agree with Fikre's contentions to render the case moot, which Joshi argues is incorrect."
+  },
+  {
+    question: "What does Justice Clarence Thomas ask regarding the procedures used to place Fikre on the list?",
+    answer: "ustice Thomas asks if the government’s declaration changes the procedures Fikre originally challenged as violating his rights."
+  },
+  {
+    question: "How does Joshi respond to concerns about procedural challenges in Fikre's case?",
+    answer: "Joshi explains that post-deprivation procedures have already changed, but pre-deprivation procedures have not, and claims that without current exposure to those procedures, Fikre’s procedural challenge is moot."
+  },
+  {
+    question: "What hypothetical scenario does Justice Sonia Sotomayor present to question the declaration’s effectiveness?",
+    answer: "Sotomayor asks if Fikre could be put back on the No Fly List if he engages in similar activities, such as holding a fundraiser for a mosque, even if he was previously removed from the list for such actions."
+  },
+  {
+    question: "How does Joshi respond to Justice Sotomayor's hypothetical about re-listing Fikre for similar activities?",
+    answer: "Joshi states that No Fly List decisions are based on a totality of information, not specific activities, but ultimately answers 'yes' to whether Fikre could be re-listed for similar activities if they meet the threat criteria."
+  },
+  {
+    question: "What concern does Justice Samuel Alito raise regarding the mootness of the case?",
+    answer: "Justice Alito expresses confusion about how the government can prove the case is moot without clarifying the reasons for Fikre’s original listing and removal, given that any new relevant circumstance could potentially place him back on the list."
+  },
+  {
+    question: "What is Joshi's main defense regarding the unlikelihood of Fikre's return to the No Fly List?",
+    answer: "Joshi argues that based on Article III principles, it is unreasonable to expect Fikre, a U.S. person, to engage in or pose a threat of engaging in terrorist acts again, given the criteria used for placement on the list."
+  },
+  {
+    question: "What clarification does Justice Elena Kagan seek regarding the declaration's commitment?",
+    answer: "Justice Kagan asks if the government could re-list Fikre if he performs the same types of activities, meets the same types of people, or associates with similar organizations, to understand what the declaration commits to."
+  },
+  {
+    question: "What does Brett M. Kavanaugh question about Sopan Joshi's argument on recurring threats?",
+    answer: "Kavanaugh questions whether prior inclusion on the No Fly List makes recurrence more probable, challenging the idea that past misconduct is insufficient for predicting future threats."
+  }
+]
